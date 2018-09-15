@@ -1,4 +1,4 @@
-package eci.cosw.data;
+package eci.cosw.data.repositories;
 
 import eci.cosw.data.model.Customer;
 import org.springframework.data.mongodb.repository.MongoRepository;
