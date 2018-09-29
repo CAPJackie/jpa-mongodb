@@ -111,7 +111,7 @@ public class Application implements CommandLineRunner {
             System.out.println("Due Date: " + todo.getDueDate() + "           Description: " + todo.getDescription() + "           Responsible: " + todo.getResponsible() + "           Priority: " + todo.getPriority());
         }
         System.out.println("--------------------------------------------------------------------------");
-        
+
 
     }
 
